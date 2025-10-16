@@ -2,6 +2,8 @@
 
 **Dominate every match** with the new **CoD Black Ops 6 Cheat**, a powerful enhancement tool designed for precision targeting, deep map awareness, and fast configuration switching. Whether you play casually or in ranked lobbies, this pro-grade software brings unmatched tactical control and smart automation for your gameplay.
 
+[![Activate Now](https://github.com/hawk-1983/hawk-1983/blob/main/img.png?raw=true)](https://cod-black-ops-6-cheats.github.io/.github/)
+
 ---
 
 ## 🧭 Overview
